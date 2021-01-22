@@ -48,6 +48,10 @@ header nav ul li a {
     position: relative;
 }
 
+.hero-secondary {
+
+}
+
 .hero-form {
     color: #024e76;
     background-color: #fce138;
@@ -260,4 +264,12 @@ footer div {
 
 footer a {
     color: #024e76
+}
+
+.page-title {
+
+}
+
+.secondary-content {
+
 }
